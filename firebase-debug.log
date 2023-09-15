@@ -1,0 +1,21 @@
+[debug] [2023-09-15T23:08:36.903Z] ----------------------------------------------------------------------
+[debug] [2023-09-15T23:08:36.905Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\camil\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-15T23:08:36.905Z] CLI Version:   12.5.4
+[debug] [2023-09-15T23:08:36.906Z] Platform:      win32
+[debug] [2023-09-15T23:08:36.906Z] Node Version:  v18.14.0
+[debug] [2023-09-15T23:08:36.907Z] Time:          Fri Sep 15 2023 18:08:36 GMT-0500 (hora estándar de Colombia)
+[debug] [2023-09-15T23:08:36.907Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-15T23:08:36.918Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-15T23:08:36.918Z] > authorizing via signed-in user (camilo.vargas10@uptc.edu.co)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\camil\Desktop\Universidad\Proyectos\PaginaWeb2
+

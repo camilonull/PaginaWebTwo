@@ -1,0 +1,21 @@
+#lista-notas {
+    margin-top: 100px; /* Ajusta el valor negativo según sea necesario */
+  }
+
+#formulario {
+    margin-top: 100px;
+}
+
+#info{
+    margin-top: 100px;
+}
+
+  
+.navbar-nav li.nav-item {
+    width: 20em; /* Ajusta el ancho según tus necesidades */
+    text-align: center; /* Centra el texto en las opciones */
+}
+
+.nav-item:hover {
+    background-color: rgb(26, 33, 119);
+}
