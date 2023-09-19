@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "database-d53ab",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

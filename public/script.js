@@ -20,8 +20,8 @@ const firebaseConfig = {
   projectId: "database-d53ab",
   storageBucket: "database-d53ab.appspot.com",
   messagingSenderId: "687277748539",
-  appId: "1:687277748539:web:4e4aec064fa1a4c300071e",
-  measurementId: "G-7HKEKLCE87",
+  appId: "1:687277748539:web:ad4d5665ab80bb8500071e",
+  measurementId: "G-2CKZZPX4M2"
 };
 
 const app = initializeApp(firebaseConfig);
@@ -144,5 +144,5 @@ formularioCrearNota?.addEventListener("submit", (e) => {
 if (window.location.pathname === "/index.html") {
   // Ejecutar la función para actualizar la lista de notas
   document.addEventListener("DOMContentLoaded", actualizarListaNotas);
-  console.log(notas);
+
 }
